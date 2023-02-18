@@ -4,4 +4,4 @@
 !.zshrc
 
 !config/*.zsh
-config/.hidden.zsh
+config/_hidden.zsh
