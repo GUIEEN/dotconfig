@@ -25,10 +25,3 @@ brew install tmux
 
 git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
 ```
-
-Now, create .tmux.conf and its symbolic link in the home folder.
-
-```
-touch .tmux.conf
-ln -s ~/.config/tmux/.tmux.conf ~/.tmux.conf
-```
