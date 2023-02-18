@@ -1,0 +1,7 @@
+!README.md
+.*
+!.gitignore
+!.zshrc
+
+!config/*.zsh
+config/.hidden.zsh
