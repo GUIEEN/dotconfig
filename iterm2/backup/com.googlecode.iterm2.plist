@@ -1574,7 +1574,7 @@
 			<key>Rows</key>
 			<integer>25</integer>
 			<key>Screen</key>
-			<integer>-2</integer>
+			<integer>1</integer>
 			<key>Scrollback Lines</key>
 			<integer>1000</integer>
 			<key>Selected Text Color</key>
@@ -1626,7 +1626,7 @@
 			<key>Visual Bell</key>
 			<true/>
 			<key>Window Type</key>
-			<integer>9</integer>
+			<integer>2</integer>
 			<key>Working Directory</key>
 			<string>/Users/ryanivy</string>
 		</dict>
