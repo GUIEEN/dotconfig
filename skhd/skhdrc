@@ -26,7 +26,8 @@ shift + alt - y : yabai -m space --mirror y-axis
 shift + alt - x : yabai -m space --mirror x-axis
 
 # toggle window float
-shift + alt - t : yabai -m window --toggle float --grid 4:4:1:1:2:2
+# The grid format is <rows>:<cols>:<start-x>:<start-y>:<width>:<height>
+shift + alt - t : yabai -m window --toggle float --grid 60:100:1:1:98:58
 
 
 # ================================================
