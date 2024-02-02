@@ -23,5 +23,5 @@ remove/uninstall plugins not on the plugin list
 ```sh
 brew install tmux
 
-git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
+# git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
 ```
